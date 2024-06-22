@@ -1,6 +1,6 @@
 ## Contribuidores
 
-- [André Luiz Vicente](https://github.com/andrelvicent)
+- [André Luiz Vicente](https://github.com/andrelvicente)
 - [Matheus M. Sousa](https://github.com/Matheus21sousa)
 - [Ana Clara Custodio](https://github.com/stclaire1)
 - [Vinicius Oliveira Magalhães](https://github.com/Viniciusom13)
