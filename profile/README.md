@@ -28,3 +28,4 @@ Contribuições são bem-vindas! Se você deseja colaborar com o projeto, por fa
 - [Matheus M. Sousa](https://github.com/Matheus21sousa)
 - [Ana Clara Custodio](https://github.com/stclaire1)
 - [Vinicius Oliveira Magalhães](https://github.com/Viniciusom13)
+- [Ruan Neres](https://github.com/ruann3res)
