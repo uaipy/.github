@@ -33,7 +33,6 @@ Mais que tecnologia: o UAI.py é um convite a pensar o futuro de forma **acessí
 
 O UAI.py é **100% gratuito e aberto**. Você pode apoiar de diferentes formas:
 
-* **Instituições e empresas:** investindo em bolsas, equipamentos ou infraestrutura.
 * **Comunidade acadêmica:** contribuindo com pesquisa, desenvolvimento e testes.
 * **Cidadãos e ONGs:** levando o projeto para escolas, associações e comunidades.
 
