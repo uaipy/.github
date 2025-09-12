@@ -1,4 +1,4 @@
-# 🌍 UAI.py – Tecnologia Sustentável que Transforma Descarte em Inovação
+# 🌍 UAIpy – Tecnologia Sustentável que Transforma Descarte em Inovação
 
 ## Visão Geral
 
@@ -7,7 +7,7 @@ Transformamos **TVBox apreendidas** pela Receita Federal – que antes seriam de
 
 Combinando **sensores de baixo custo** e **conectividade IoT**, nossa solução coleta informações como temperatura, umidade e chuva, enviando-as em tempo real para um painel online. Essa inovação já está sendo aplicada em **agricultura de precisão, educação tecnológica e cidades inteligentes**.
 
-Mais que tecnologia: a UAI.py é um convite a pensar o futuro de forma **acessível, inclusiva e sustentável**.
+Mais que tecnologia: a UAIpy é um convite a pensar o futuro de forma **acessível, inclusiva e sustentável**.
 
 ---
 
@@ -31,7 +31,7 @@ Mais que tecnologia: a UAI.py é um convite a pensar o futuro de forma **acessí
 
 ## Como Apoiar ou Participar 🤝
 
-O UAI.py é **100% gratuito e aberto**. Você pode apoiar de diferentes formas:
+A UAIpy é **100% gratuito e aberto**. Você pode apoiar de diferentes formas:
 
 * **Comunidade acadêmica:** contribuindo com pesquisa, desenvolvimento e testes.
 * **Cidadãos e ONGs:** levando o projeto para escolas, associações e comunidades.
