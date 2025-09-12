@@ -1,7 +1,3 @@
-Perfeito, André. Analisei tanto o **README técnico** quanto o **artigo acadêmico**. Agora reescrevi o README em um **formato mais comercial e atrativo**, voltado para despertar interesse de parceiros, patrocinadores e público em geral. Segui a estrutura sugerida:
-
----
-
 # 🌍 UAI.py – Tecnologia Sustentável que Transforma Descarte em Inovação
 
 ## Visão Geral
