@@ -4,7 +4,9 @@
 
 **UAIpy** é uma plataforma aberta que aproxima **cientistas, estudantes e comunidades** para criar, testar e compartilhar soluções em **Internet das Coisas (IoT)**.
 
-Nosso caso de uso principal é a **estação meteorológica de baixo custo**, que coleta dados como **temperatura, umidade e chuva** em tempo real. Mas UAIpy vai muito além disso: sua arquitetura é **versátil e modular**, permitindo que qualquer pessoa ou instituição desenvolva projetos inovadores em áreas como **agricultura de precisão, cidades inteligentes e educação tecnológica**.
+Nosso caso de uso principal é a **estação meteorológica de baixo custo**, que coleta dados como **temperatura, umidade e chuva** em tempo real. 
+
+Mas UAIpy vai muito além disso: sua arquitetura é **versátil e modular**, permitindo que qualquer pessoa ou instituição desenvolva projetos inovadores em áreas como **agricultura de precisão, cidades inteligentes e educação tecnológica**.
 
 Com UAIpy, transformar **ideias em impacto real** fica mais simples, acessível e colaborativo.
 
