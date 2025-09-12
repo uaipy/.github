@@ -2,12 +2,12 @@
 
 ## Visão Geral
 
-O **UAI.py** é um projeto de extensão acadêmica que une **tecnologia, sustentabilidade e impacto social**.
+A **UAIpy** é um projeto de extensão acadêmica que une **tecnologia, sustentabilidade e impacto social**.
 Transformamos **TVBox apreendidas** pela Receita Federal – que antes seriam descartadas – em **centrais inteligentes de monitoramento de dados ambientais**.
 
 Combinando **sensores de baixo custo** e **conectividade IoT**, nossa solução coleta informações como temperatura, umidade e chuva, enviando-as em tempo real para um painel online. Essa inovação já está sendo aplicada em **agricultura de precisão, educação tecnológica e cidades inteligentes**.
 
-Mais que tecnologia: o UAI.py é um convite a pensar o futuro de forma **acessível, inclusiva e sustentável**.
+Mais que tecnologia: a UAI.py é um convite a pensar o futuro de forma **acessível, inclusiva e sustentável**.
 
 ---
 
