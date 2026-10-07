@@ -26,6 +26,11 @@
   
 ---
 
+## Nossos links  🔗
+
+- www.uaipy.com.br
+- www.app.uaipy.com.br
+
 ## Como Apoiar ou Participar 🤝
 
 A UAIpy é **100% gratuito e aberto**. Você pode apoiar de diferentes formas:
