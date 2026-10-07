@@ -6,6 +6,11 @@
 
 ---
 
+## Nossos links  🔗
+
+- www.uaipy.com.br
+- www.app.uaipy.com.br
+
 ## Benefícios para a Comunidade 🌱
 
 * **Ciência para todos:** dados climáticos e ambientais acessíveis para agricultores, escolas e comunidades.
@@ -25,11 +30,6 @@
 * **Open Source e colaborativo**, pronto para receber contribuições e ser adaptado.
   
 ---
-
-## Nossos links  🔗
-
-- www.uaipy.com.br
-- www.app.uaipy.com.br
 
 ## Como Apoiar ou Participar 🤝
 
